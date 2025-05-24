@@ -1,5 +1,5 @@
 # 🛒 Amazon Clone — Pixel-Perfect Front-End Replica
-<pre>
+
 A fully responsive, pixel-perfect HTML & CSS clone of Amazon’s homepage—showcasing professional layout skills, advanced CSS techniques, and attention to detail worthy of any CTO’s approval.
 
 ---
@@ -39,83 +39,53 @@ Built to demonstrate:
 
 ## 🗂️ File Structure
 
+<pre>
 amazon-clone/
 ├── index.html      # Homepage markup replicating header, carousels, product grid, footer
 └── style.css       # Global resets, grid/flex layouts, typography, color variables, responsive rules
+</pre>
 
 ---
 
 ## 🛠️ Technologies & Methodologies
 
-<ul type="circle"> HTML5 & Semantic Elements (<header>, <main>, <section>, <footer>) </ul>
-
-<ul type="circle"> CSS3: 
-
-    <li type="circle"> Flexbox & Grid for two-dimensional layouts </li>
-
-    <li type="circle"> Custom Properties (:root variables) for color, spacing, typography </li>
-
-    <li type="circle"> Responsive Media Queries (mobile-first) </li>
-
-    <li type="circle"> BEM-inspired class naming for maintainability </li>
-</ul>
-<ul type="circle"> Performance Best Practices:
-
-    <li type="circle"> Minimized CSS file </li>
-
-    <li type="circle"> Lazy image loading attributes (loading="lazy") </li>
-</ul>
-<ul type="circle"> Accessibility Enhancements:
-
-    <li type="circle"> Skip-to-content links </li>
-
-    <li type="circle"> aria-label on navigation and search elements </li>
-
-    <li type="circle"> Visible focus states for keyboard users </li>
-</ul>
-
----
-
-## 📝 How to Use
-<li type="1"> Clone the Repo </li>
-
-git clone https://github.com/your-username/amazon-clone.git
-cd amazon-clone
-
-<li type="2"> Open in Browser
-
-<ul type="circle"> Double-click index.html
-<ul type="circle"> Or serve via a simple HTTP server:
-npx http-server .  # requires Node.js
-
-<li type="3">Explore & Customize
-
-<ul type="circle"> Tweak color variables in :root
-<ul type="circle"> Adjust grid breakpoints in @media queries
-<ul type="circle"> Replace placeholder images with your own assets
+- **HTML5 & Semantic Elements**
+  - `<header>`, `<main>`, `<section>`, `<footer>`, `<nav>`
+- **CSS3**
+  - **Flexbox & Grid** for robust layout
+  - **Custom Properties** (`:root`) for theme variables
+  - **Responsive Media Queries** (mobile-first approach)
+  - **BEM-inspired class naming** for maintainability
+- **Performance Best Practices**
+  - Minified CSS
+  - `loading="lazy"` for images
+- **Accessibility Enhancements**
+  - Skip-to-content links
+  - `aria-label` on interactive elements
+  - Visible focus states for keyboard navigation
 
 ---
 
 ## 🚧 Future Enhancements
-<ul type="circle"> JavaScript Interactivity:
-    <li>Search autocomplete</li>
-    <li>Carousel sliders</li>
-    <li>Add-to-cart modal</li>
-</ul>
-<ul type="circle">Backend Integration:
-    <li>Fetch product data via REST API</li>
-    <li>User authentication flows</li>
-</ul>
-<ul type="circle">Performance Tuning:
-    <li>CSS minification & bundling</li>
-    <li>Image optimization pipeline</li>
-</ul>
+
+- **JavaScript Interactivity**
+  - Search autocomplete  
+  - Carousel sliders  
+  - Add-to-cart modal  
+
+- **Backend Integration**
+  - Fetch products via REST API  
+  - User authentication flows  
+
+- **Performance Tuning**
+  - CSS bundling & minification  
+  - Automated image optimization  
 
 ---
 
 ## ✍️ Author
-Mohammed Usman – Aspiring Web Developer
+Mohammed Usman — Aspiring Web Developer
 
 LinkedIn: linkedin.com/in/mohammedusman07
+
 Email: imailusman07@gmail.com
-</pre>
