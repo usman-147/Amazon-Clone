@@ -1,16 +1,21 @@
-# 🛒 Amazon Clone — Pixel-Perfect Front-End Replica
+![image](https://github.com/user-attachments/assets/9c30698d-fee1-4441-96c6-e3180fbe7629)# 🛒 Amazon Clone — Pixel-Perfect Front-End Replica
 
 A fully responsive, pixel-perfect HTML & CSS clone of Amazon’s homepage—showcasing professional layout skills, advanced CSS techniques, and attention to detail worthy of any CTO’s approval.
 
 ---
 
-## 🔥 Live Demo
+## 📑 Table of Contents
 
-> **Coming Soon:** Deploy to GitHub Pages or Netlify for real-time preview.  
-> *(Or run locally: open `index.html` in your browser.)*
+1. [Project Overview](#project-overview)  
+2. [Key Features](#key-features)  
+3. [Getting Started](#getting-started)  
+4. [File Structure](#file-structure)  
+5. [Technologies & Methodologies](#technologies--methodologies)  
+6. [Future Enhancements](#future-enhancements)  
+7. [Author](#author)
 
 ---
-
+<a id="project-overview"></a>
 ## 🎯 Project Overview
 
 This repo contains two core files:
@@ -23,7 +28,7 @@ Built to demonstrate:
 - Responsive behavior across mobile, tablet, and desktop
 
 ---
-
+<a id="key-features"></a>
 ## 🚀 Key Features
 
 | Feature                       | Details                                                        |
@@ -36,7 +41,17 @@ Built to demonstrate:
 | **Modular CSS**               | Variables, custom properties, and logical class naming (BEM-style).          |
 
 ---
+<a id="getting-started"></a>
+## 🚀 Getting Started
 
+1. **Clone or download** this folder to your local machine.  
+2. Open any `.html` file in your browser to view the examples.  
+3. Inspect and modify the source to experiment with each tag.  
+
+_No build tools or dependencies required—just a modern web browser._
+
+---
+<a id="file-structure"></a>
 ## 🗂️ File Structure
 
 <pre>
@@ -46,7 +61,7 @@ amazon-clone/
 </pre>
 
 ---
-
+<a id="technologies--methodologies"></a>
 ## 🛠️ Technologies & Methodologies
 
 - **HTML5 & Semantic Elements**
@@ -65,7 +80,7 @@ amazon-clone/
   - Visible focus states for keyboard navigation
 
 ---
-
+<a id="future-enhancements"></a>
 ## 🚧 Future Enhancements
 
 - **JavaScript Interactivity**
@@ -82,10 +97,12 @@ amazon-clone/
   - Automated image optimization  
 
 ---
-
+<a id="author"></a>
 ## ✍️ Author
-Mohammed Usman — Aspiring Web Developer
+**Mohammed Usman** – Aspiring Web Developer  
+- LinkedIn: [linkedin.com/in/mohammedusman07](https://www.linkedin.com/in/mohammedusman07/)  
+- Email: <imailusman07@gmail.com>
 
-LinkedIn: linkedin.com/in/mohammedusman07
+---
 
-Email: imailusman07@gmail.com
+**Ready to continue?** Customize these examples or add JavaScript next to bring your pages to life!  
