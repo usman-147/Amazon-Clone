@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c30698d-fee1-4441-96c6-e3180fbe7629)# 🛒 Amazon Clone — Pixel-Perfect Front-End Replica
+# 🛒 Amazon Clone — Pixel-Perfect Front-End Replica
 
 A fully responsive, pixel-perfect HTML & CSS clone of Amazon’s homepage—showcasing professional layout skills, advanced CSS techniques, and attention to detail worthy of any CTO’s approval.
 
